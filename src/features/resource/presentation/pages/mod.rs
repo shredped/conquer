@@ -1,0 +1,1 @@
+pub mod resources_page;
