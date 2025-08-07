@@ -15,3 +15,5 @@
 # Package.lock
 package-lock.json
 bun.lock
+
+node_modules
